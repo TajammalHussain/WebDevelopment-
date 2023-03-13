@@ -1,1 +1,2 @@
 # WebDevelopment-
+As a programmer and front-end developer, I possess a strong foundation in computer science, data structures, algorithms, and programming languages like Java, Python, and JavaScript. I am skilled in creating responsive and user-friendly websites and mobile applications using HTML, and CSS, With my passion for technology and my curiosity to learn and explore new tools and technologies, I have honed my skills in web development, data analysis, and software engineering.
